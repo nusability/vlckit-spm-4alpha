@@ -2,7 +2,7 @@
 #
 rm -rf .tmp/ || true
 
-TAG_VERSION="4.0.0a18"
+TAG_VERSION="4.0.0-alpha.18"
 VLC_URL="https://download.videolan.org/cocoapods/unstable/VLCKit-4.0.0a18-844dff57e-c833c4be0.tar.xz"
 
 mkdir .tmp/
