@@ -6,7 +6,7 @@ import PackageDescription
 let vlcBinary = Target.binaryTarget(name: "VLCKit-all", url: "https://github.com/nusability/vlckit-spm-4alpha/releases/download/4.0.0a18/VLCKit-all.xcframework.zip", checksum: "17c870b0611af1d8d92f37c7315ec741ca918b81ae95b8079c934bbbdc0b3fb5")
 
 let package = Package(
-    name: "vlckit-spm",
+    name: "vlckit-spm-4alpha",
     platforms: [.macOS(.v10_13), .iOS(.v11), .tvOS(.v11)],
     products: [
         .library(
