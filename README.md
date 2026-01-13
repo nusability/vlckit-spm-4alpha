@@ -11,7 +11,7 @@ https://github.com/nusability/vlckit-spm-4alpha
 
 If using this in a swift package, add this repo as a dependency.
 ```
-.package(url: "https://github.com/nusability/vlckit-spm-4alpha/", .upToNextMajor(from: "4.0.0a18"))
+.package(url: "https://github.com/nusability/vlckit-spm-4alpha/", .upToNextMajor(from: "4.0.0-alpha.18"))
 ```
 
 ### Usage
