@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let vlcBinary = Target.binaryTarget(name: "VLCKit-all", url: "https://github.com/nusability/vlckit-spm-4alpha/releases/download/4.0.0a18/VLCKit-all.xcframework.zip", checksum: "17c870b0611af1d8d92f37c7315ec741ca918b81ae95b8079c934bbbdc0b3fb5")
+let vlcBinary = Target.binaryTarget(name: "VLCKit-all", url: "https://github.com/nusability/vlckit-spm-4alpha/releases/download/4.0.0a18/VLCKit-all.xcframework.zip", checksum: "9874b42af4af3b1eff690ea4361fed31f921102c9e20da6355a7ceab66023a01")
 
 let package = Package(
     name: "vlckit-spm-4alpha",
